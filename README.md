@@ -1,4 +1,4 @@
-Updated: 02.2025
+Updated: 02.2025  
 Script created by Salvador Camacho
 
 This script was created with best practices, so it is more resilient, such as:
@@ -14,7 +14,7 @@ so the script is expected to fail 80% of the times, which works well to show err
 	
 Runtime Settings were set to log only on errors and generate snapshot on errors, think times 75% to 150%
 
-This script has 3 transactions
-AOS-Web-S03-01 Access AOS URL
-AOS-Web-S03-02 Sign In
+This script has 3 transactions:  
+AOS-Web-S03-01 Access AOS URL  
+AOS-Web-S03-02 Sign In  
 AOS-Web-S03-03 Sign Out
