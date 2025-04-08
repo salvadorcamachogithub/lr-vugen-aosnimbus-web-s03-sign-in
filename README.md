@@ -7,7 +7,7 @@ This script was created with best practices, so it is more resilient, such as:
 * No third party
 * One validation per transaction
 * Think times at the end of each transaction to better simulate user behavior
-* Main URL parametrized, Nimbus AOS by default: (http://nimbusserver.aos.com:8000)
+* Main URL parametrized, Nimbus AOS by default: (http://nimbusserver.aos.com:8000), credentials parametrized
 
 This script logs in and then logs out. There are 10 rows in the user data and 2 of them are bad log ins,
 so the script is expected to fail 80% of the times, which works well to show error snapshot and detail during the test
